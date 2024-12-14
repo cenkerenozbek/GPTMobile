@@ -1,7 +1,7 @@
 # **GPTMobile**
 
 ## **Overview**
-GPTMobile is a mobile application designed to provide users with seamless interaction with OpenAI's GPT-based chatbot. The app allows users to send messages, receive responses, and customize their experience with language preferences and visual themes such as day and night modes.
+GPTMobile is an android application designed to provide users interaction with OpenAI's GPT-based chatbot. The app allows users to send messages, receive responses, and customize their experience with language preferences and visual themes such as day and night modes.
 
 ## **Features**
 
