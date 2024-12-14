@@ -1,0 +1,5 @@
+<!-- res/values/attrs.xml -->
+<resources>
+    <attr name="displayModeIcon" format="reference"/>
+    <attr name="toolbarIcon" format="reference"/>
+</resources>

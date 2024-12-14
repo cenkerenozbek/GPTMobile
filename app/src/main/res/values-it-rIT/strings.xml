@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GPTMobile</string>
+    <string name="welcome_text">Come posso aiutarti oggi?</string>
+    <string name="message_hint">Messaggio a GPTMobile... </string>
+    <string name="action_settings_language">Lingue</string>
+    <string name="switch_to_dark_mode">Passa alla modalità scura</string>
+    <string name="switch_to_light_mode">Passa alla modalità chiara</string>
+    <string name="message_copied">Messaggio copiato negli appunti</string>
+    <string name="network_alert_title">Nessuna connessione a Internet</string>
+    <string name="network_alert_message">Si prega di controllare la connessione a Internet e riprovare.</string>
+    <string name="network_alert_positive_button">OK</string>
+    <string name="recommended_prompt_one">Spiega il calcolo quantistico in termini semplici</string>
+    <string name="recommended_prompt_two">Hai qualche idea creativa per il compleanno di un bambino di 10 anni?</string>
+    <string name="recommended_prompt_three">Come faccio una richiesta HTTP in JavaScript?</string>
+    <string name="recommended_prompt_four">Raccontami un fatto divertente sull\'Impero Romano</string>
+
+</resources>

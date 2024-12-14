@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_settings" type="id" />
+    <item name="flagImageView" type="id" />
+    <item name="languageTextView" type="id" />
+</resources>

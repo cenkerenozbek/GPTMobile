@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryDay">#bdd8f1</color>
+    <color name="secondaryDay">#82a6cb</color>
+    <color name="tertiaryDay">#3667a6</color>
+    <color name="quatenaryDay">#214177</color>
+    <color name="primaryNight">#313F4C</color>
+    <color name="secondaryNight">#415566</color>
+    <color name="tertiaryNight">#526a80</color>
+    <color name="quatenaryNight">#bdd8f1</color>
+</resources>

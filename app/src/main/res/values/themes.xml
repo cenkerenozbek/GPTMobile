@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Day mode theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primaryDay</item>
+        <item name="colorPrimaryVariant">@color/quatenaryDay</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/secondaryDay</item>
+        <item name="colorSecondaryVariant">@color/tertiaryDay</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/secondaryDay</item>
+        <!-- Customize your theme here -->
+        <item name="android:textColor">@color/quatenaryDay</item>
+        <item name="android:windowBackground">@color/primaryDay</item>
+        <item name="displayModeIcon">@drawable/dark_mode</item>
+        <item name="toolbarIcon">@drawable/light_toolbar_logo</item>
+
+
+
+    </style>
+
+
+
+</resources>

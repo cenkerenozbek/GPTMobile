@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Night mode theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primaryNight</item>
+        <item name="colorPrimaryVariant">@color/quatenaryNight</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/secondaryNight</item>
+        <item name="colorSecondaryVariant">@color/tertiaryNight</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/secondaryNight</item>
+        <!-- Customize your theme here -->
+        <item name="android:textColor">@color/quatenaryNight</item>
+        <item name="android:windowBackground">@color/primaryNight</item>
+        <item name="displayModeIcon">@drawable/light_mode</item>
+        <item name="toolbarIcon">@drawable/dark_toolbar_logo</item>
+
+    </style>
+</resources>

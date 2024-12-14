@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPTMobile</string>
+    <string name="welcome_text">Size bugün nasıl yardımcı olabilirim?</string>
+    <string name="message_hint">GPTMobile\'a sor... </string>
+    <string name="action_settings_language">Diller</string>
+    <string name="switch_to_dark_mode">Karanlık modu aç</string>
+    <string name="switch_to_light_mode">Aydınlık modu aç</string>
+    <string name="message_copied">Mesaj panoya kopyalandı</string>
+    <string name="network_alert_title">İnternete bağlı değilsiniz</string>
+    <string name="network_alert_message">Lütfen internet bağlantınızı kontrol edin ve yeniden deneyin</string>
+    <string name="network_alert_positive_button">Tamam</string>
+    <string name="recommended_prompt_one">Kuantum hesaplamayı basit terimlerle açıkla</string>
+    <string name="recommended_prompt_two">10 yaşındaki bir çocuğun doğum günü için yaratıcı fikrin var mı?</string>
+    <string name="recommended_prompt_three">JavaScript\'te bir HTTP isteği nasıl yapılır?</string>
+    <string name="recommended_prompt_four">Bana Roma İmparatorluğu hakkında ilginç bir şey söyle</string>
+
+
+</resources>

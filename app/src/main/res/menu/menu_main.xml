@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_settings_language"
+                android:title="@string/action_settings_language"
+                android:icon="@drawable/ic_language"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/action_settings_display_mode"
+                android:title="?attr/displayOptions"
+                android:icon="?attr/displayModeIcon"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+</menu>

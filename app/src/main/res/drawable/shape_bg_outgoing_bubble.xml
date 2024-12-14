@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--ForeGround-->
+
+    <item>
+        <rotate
+            android:fromDegrees="40"
+            android:pivotX="100%"
+            android:pivotY="0%"
+            android:toDegrees="0">
+            <shape android:shape="rectangle">
+                <corners android:radius="4dp"/>
+                <solid android:color="?colorPrimaryVariant" />
+            </shape>
+        </rotate>
+    </item>
+    <item android:right="10dp">
+        <shape android:shape="rectangle">
+            <solid android:color="?colorPrimaryVariant" />
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+
+</layer-list>
